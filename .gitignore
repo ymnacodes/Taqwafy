@@ -1,0 +1,5 @@
+.env
+master-key
+src/encryprtion
+node_modules
+package-lock.json

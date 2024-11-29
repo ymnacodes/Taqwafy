@@ -1,0 +1,25 @@
+{
+  "name": "islamic-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/deploy.js &&node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "yomna",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.8.2",
+    "node-cron": "^3.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.15.0"
+  }
+}

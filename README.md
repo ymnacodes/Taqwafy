@@ -1,6 +1,6 @@
 # Taqwafy <img src="src\assets\images\Taqwafy Logo.png" alt="logo" width="30" height="30"/>
 
-Taqwafy is a powerful and user-friendly Discord bot designed to assist Muslims in staying connected to their faith and developed using Discord JS library. With its features, Taqwafy ensures that users never miss a prayer and fosters a respectful environment during worship times.
+Taqwafy is user-friendly Discord bot designed to assist Muslims in staying connected to their faith and developed using Discord JS library. With its features, Taqwafy ensures that users never miss a prayer and fosters a respectful environment during worship times.
 
 ## Features
 
